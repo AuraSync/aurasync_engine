@@ -1,39 +1,30 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+<img width="100" height="100" src="readme/logo.png" alt="app logo">
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/tools/pub/writing-package-pages).
+# AuraSync | Server Package
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/to/develop-packages).
--->
+![License](https://img.shields.io/github/license/AuraSync/aurasync_server)
+![Contributions Status](https://img.shields.io/badge/contributions-Closed-red)
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+AuraSync connects your Android to your PC or Mac for remote control, mirroring
+and real-time data exchange via USB or local network.
 
-## Features
+## 🧑‍💻 Technologies
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+[![Made with Dart](https://img.shields.io/badge/frontend-Dart-indigo)]((https://dart.dev/))
+[![Made with Flutter](https://img.shields.io/badge/frontend-Flutter-indigo)]((https://flutter.dev/))
+[![style: very good analysis](https://img.shields.io/badge/code_style-Very_Good_Analysis-B22C89.svg)](https://pub.dev/packages/very_good_analysis)
 
-## Getting started
+* [Dart(>=3.8.1)](https://dart.dev/)
+* [Flutter(>=3.32.1)](https://flutter.dev/)
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+## 🖥️ Platforms
 
-## Usage
+* Linux(snap) ✅
+* macOS(>=11.5) ✅
+* Windows(>=10.0) ✅
+* Android(>=5.1|SDK22) ✅
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+## 📜 Credits
 
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+* SoftYes TI [\<softyes.com.br\>](https://softyes.com.br)
+* João Sereia [\<joao.sereia@softyes.com.br\>](mailto:joao.sereia@softyes.com.br)
