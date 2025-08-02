@@ -1,6 +1,6 @@
 <img width="100" height="100" src="readme/logo.png" alt="app logo">
 
-# AuraSync | Server Package
+# AuraSync | Engine Package
 
 ![License](https://img.shields.io/github/license/AuraSync/aurasync_server)
 ![Contributions Status](https://img.shields.io/badge/contributions-Closed-red)
