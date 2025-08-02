@@ -2,7 +2,7 @@
 
 # AuraSync | Engine Package
 
-![License](https://img.shields.io/github/license/AuraSync/aurasync_server)
+![License](https://img.shields.io/github/license/AuraSync/aurasync_engine)
 ![Contributions Status](https://img.shields.io/badge/contributions-Closed-red)
 
 AuraSync connects your Android to your PC or Mac for remote control, mirroring
