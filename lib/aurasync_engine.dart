@@ -1,5 +1,6 @@
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+/// AuraSync connects your Android to your PC or Mac for remote control,
+/// mirroring and real-time data exchange via USB or local network."
+library;
+
+export 'entities.dart';
+export 'enums.dart';

@@ -1,8 +1,11 @@
 {
   "cSpell.words": [
     "aurasync",
+    "linux",
     "pubspec",
-    "softyes"
+    "softyes",
+    "unpair"
   ],
-  "dart.flutterSdkPath": ".fvm/versions/stable"
+  "dart.flutterSdkPath": ".fvm/versions/stable",
+  "makefile.configureOnOpen": false
 }
